@@ -1,0 +1,12 @@
+{
+  "jobId": "#number",
+  "jobTitle": "#string",
+  "jobDescription": "#string",
+  "experience": "#[4]",
+  "project": [
+    {
+      "projectName": "#string",
+      "technology": "#[4] #string? _.length <= 8"
+    }
+  ]
+}

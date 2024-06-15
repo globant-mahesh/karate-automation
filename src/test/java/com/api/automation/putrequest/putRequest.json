@@ -1,0 +1,12 @@
+{
+  "experience":["Google","Apple","Mobile Iron","Jenkins","Git","Jira"],
+  "jobDescription": "#(jobDescription)",
+  "jobId": #(jobId),
+  "jobTitle": "#(jobTitle)",
+  "project": [
+    {
+      "projectName": "#(projectName)",
+      "technology": ["Karate","Api","Java","Selenium"]
+    }
+  ]
+}

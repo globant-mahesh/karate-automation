@@ -1,0 +1,21 @@
+{
+  "experience": [
+    "Google",
+    "Apple",
+    "Mobile Iron",
+    "Jenkins"
+  ],
+  "jobDescription": "To lead a QA team of 15 resources",
+  "jobId": #(jobId),
+  "jobTitle": "QA manager",
+  "project": [
+    {
+      "projectName": "Panorama",
+      "technology": [
+        "Karate",
+        "Api",
+        "Java"
+      ]
+    }
+  ]
+}
